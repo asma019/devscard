@@ -152,10 +152,10 @@ export const tailwindCss = createSkillFactory({
 });
 
 export const typescript = createSkillFactory({
-  name: 'TypeScript',
-  icon: 'simple-icons:typescript',
-  iconColor: '#3178C6',
-  url: 'https://www.typescriptlang.org/',
+  name: 'CSS',
+  icon: 'simple-icons:css',
+  iconColor: '#F43059',
+  url: 'https://www.w3.org/Style/CSS/Overview.en.html',
 });
 
 export const vue = createSkillFactory({

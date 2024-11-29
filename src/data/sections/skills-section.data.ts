@@ -37,7 +37,7 @@ const skillsSectionData = {
         }),
         typescript({
           level: 4,
-          description: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
+          description: 'Skilled in CSS3, creating responsive designs, animations, and visually appealing layouts with clean, maintainable code.',
         }),
         sass({
           level: 4,
