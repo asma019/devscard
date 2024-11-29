@@ -116,8 +116,8 @@ export const prettier = createSkillFactory({
   url: 'https://prettier.io/',
 });
 
-export const html = createSkillFactory({
-  name: 'react',
+export const react = createSkillFactory({
+  name: 'HTML',
   icon: 'simple-icons:html',
   iconColor: '#61DAFB',
   url: 'https://html.com/',
