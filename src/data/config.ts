@@ -14,7 +14,7 @@ const config = {
     title: 'Mehedi Hasan - WordPress Developer and Freelancer',
     description:
       'Explore the portfolio of Mehedi Hasan, a skilled WordPress developer and freelancer from Bangladesh. Specializing in custom WordPress solutions, website optimization, and professional freelancing services.',
-    faviconPath: '/src/assets/my-image.jpeg',
+    faviconPath: '/src/assets/my-image.jpg',
   },
   pdf: {
     footer:

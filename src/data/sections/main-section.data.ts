@@ -9,7 +9,7 @@ const mainSectionData = {
     slug: 'profile',
     visible: true,
   },
-  image: import('@/assets/my-image.jpeg'),
+  image: import('@/assets/my-image.jpg'),
   fullName: 'Mehedi Hasan',
   role: 'WordPress Developer and Writer',
   details: [
