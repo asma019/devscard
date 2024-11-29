@@ -116,11 +116,11 @@ export const prettier = createSkillFactory({
   url: 'https://prettier.io/',
 });
 
-export const react = createSkillFactory({
-  name: 'React.js',
-  icon: 'simple-icons:react',
+export const html = createSkillFactory({
+  name: 'HTML',
+  icon: 'simple-icons:html',
   iconColor: '#61DAFB',
-  url: 'https://reactjs.org/',
+  url: 'https://html.com/',
 });
 
 export const reactQuery = createSkillFactory({

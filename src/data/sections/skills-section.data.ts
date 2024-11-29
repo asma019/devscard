@@ -30,10 +30,10 @@ const skillsSectionData = {
     {
       title: 'I already know',
       skills: [
-        react({
-          level: 5,
+        html({
+          level: 4,
           description:
-            'Proin ut erat sed massa tempus suscipit. Mauris efficitur nunc sem, nec scelerisque ligula bibendum ut.',
+            'Proficient in HTML5, crafting responsive layouts, semantic structures, and clean code for modern web development.',
         }),
         typescript({
           level: 4,
