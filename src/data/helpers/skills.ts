@@ -153,7 +153,7 @@ export const tailwindCss = createSkillFactory({
 
 export const typescript = createSkillFactory({
   name: 'CSS',
-  icon: 'simple-icons:css',
+  icon: 'simple-icons:CSS Wizardry',
   iconColor: '#F43059',
   url: 'https://www.w3.org/Style/CSS/Overview.en.html',
 });
