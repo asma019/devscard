@@ -11,9 +11,9 @@ const config = {
     },
   },
   meta: {
-    title: 'Mark Freeman - Senior React Developer',
+    title: 'Mehedi Hasan - WordPress Developer and Freelancer',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales ac dui at vestibulum. In condimentum metus id dui tincidunt, in blandit mi vehicula.',
+      'Explore the portfolio of Mehedi Hasan, a skilled WordPress developer and freelancer from Bangladesh. Specializing in custom WordPress solutions, website optimization, and professional freelancing services.',
     faviconPath: '/src/assets/my-image.jpeg',
   },
   pdf: {
